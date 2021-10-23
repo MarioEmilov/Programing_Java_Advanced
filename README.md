@@ -12,6 +12,7 @@
 The main topics course was:
 
 1. Stacks and Queues:
+
 • Algorithmic Complexity;
 • Stack - last-in, last-out;
 • Queue - first-in, first-out;
@@ -40,20 +41,20 @@ __________________________________________________
 • Other Function Types;
 • BiFunction.
 __________________________________________________
-6. Defining classes
+6. Defining classes:
 • Defining Simple Classes;
 • Fields;
 • Methods;
 • Constructors, Keyword this;
 • Static Members.
 __________________________________________________
-7. Generics
+7. Generics:
 • Generics Syntax;
 • Generic Classes and Interfaces;
 • Generic Methods;
 • Type Erasure, Type Parameter Bounds.
 __________________________________________________
-8, Iterators and Comparators
+8, Iterators and Comparators:
 • Variable Arguments;
 • Iterators (Iterator, ListIterator);
 • Comperators (Comparable).
