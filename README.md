@@ -94,3 +94,6 @@ __________________________________________________
 
 After that I received this Certificate:
 --------------------------------------------------
+
+![Java Advanced - September 2021 - Certificate](https://user-images.githubusercontent.com/88974458/146419549-88638f35-7d6b-4264-bc2b-05de5cc8525d.jpeg)
+
